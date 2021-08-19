@@ -2,6 +2,8 @@
 
 [![pkg.go.dev][gopkg-badge]][gopkg]
 
+I referred to [called](https://github.com/gostaticanalysis/called)
+
 `findpkg` findpkg find callings specified by findpkg.pkgs flag.
 
 ```go
